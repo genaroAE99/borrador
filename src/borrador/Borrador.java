@@ -8,6 +8,7 @@ public class Borrador {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        int h = 800;
         int N = 3; 
         int[] A = {4,2,3};
         int a = A.length; 
